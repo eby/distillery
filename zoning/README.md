@@ -19,6 +19,7 @@ The [TTB does not specify](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=cf87e
 
 ### Michigan Liquor Control
 
+The [Michigan Liquor Control Code](http://www.legislature.mi.gov/mileg.asp?page=getObject&objName=mcl-Act-58-of-1998) also does not require any specific zoning. It does have some provisions about selling alcohol that includes how close you are to schools and churches.
 
 ### Locality
 
