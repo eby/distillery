@@ -1,6 +1,12 @@
 # Leland Township Zoning
 
-### Section 18.25 WINERIES
+This is the section of the zoning that has allowed wineries and cideries on Ag district zoning. It would make sense to amend this to add distilleries as well.
+
+Full zoning code available online in PDF form at http://www.leelanau.cc/zo_103107.asp
+
+Below Through August 2013
+
+### Section 18.25 WINERIES 
 Wineries and Cideries are welcomed by Leland Township as appropriate farm activities. All further references to Wineries in this section shall include Cideries. It is the intent of this section to promote local agriculture production by allowing construction of a winery with tasting room and retail sale of winery products in the agricultural district subject to this ordinance. It is also the intent of this section to encourage the growing of wine fruit and production of wine as an integral component of the rural and agricultural ambiance of Leland Township, and to maintain the viability of fruit farming through value-added processing and direct sales of wine and wine-related beverages made from locally grown fruit.
 
 A. Wineries and/or vineyards, with associated on-site tasting rooms in the AC district, are permitted, provided:
